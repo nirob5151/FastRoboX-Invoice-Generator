@@ -1,0 +1,1 @@
+# FastRoboX-Invoice-Generator
